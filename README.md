@@ -9,6 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliBokaei&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBokaei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AliBokaei&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
